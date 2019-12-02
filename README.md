@@ -46,7 +46,7 @@ class C3D(nn.Module):
             nn.Conv3d(1, output, kernel_size, stride=_stride),
             nn.ReLU(),
             nn.Conv3d(output, output2, kernel_size2, stride=_stride2),
-            nn.Softmax(dim=1))
+            nn.Softmax(dim=2))
         self.fc = nn.Linear(D_out*H_out*output2*W_out, D_out*H_out)   
         
     def forward(self, x, D_out, H_out):
