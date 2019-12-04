@@ -1,0 +1,146 @@
+59.598214285714285
+{'_stride': 2, '_stride2': 1, 'N': 9, 'N2': 4, 'k': 3, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 7}
+61.507936507936506
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 5, 'k': 1, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+56.473214285714285
+{'_stride': 2, '_stride2': 1, 'N': 9, 'N2': 2, 'k': 3, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 12}
+57.142857142857146
+{'_stride': 2, '_stride2': 1, 'N': 9, 'N2': 4, 'k': 3, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 7}
+60.044642857142854
+{'_stride': 2, '_stride2': 1, 'N': 9, 'N2': 4, 'k': 3, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 7}
+60.11904761904762
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 5, 'k': 1, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+60.044642857142854
+{'_stride': 2, '_stride2': 1, 'N': 9, 'N2': 4, 'k': 3, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 7}
+56.74603174603175
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 5, 'k': 1, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+56.69642857142857
+{'_stride': 3, '_stride2': 1, 'N': 10, 'N2': 4, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 11}
+56.69642857142857
+{'_stride': 3, '_stride2': 1, 'N': 10, 'N2': 4, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 11}
+57.36607142857143
+{'_stride': 2, '_stride2': 1, 'N': 9, 'N2': 2, 'k': 3, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 12}
+56.69642857142857
+{'_stride': 3, '_stride2': 1, 'N': 10, 'N2': 4, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 11}
+56.69642857142857
+{'_stride': 3, '_stride2': 1, 'N': 10, 'N2': 4, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 11}
+57.142857142857146
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 4, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+56.69642857142857
+{'_stride': 3, '_stride2': 1, 'N': 10, 'N2': 4, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 11}
+64.73214285714286
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 4, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 5, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+64.50892857142857
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 3, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+65.17857142857143
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 3, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+58.92857142857143
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 3, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 3, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+64.28571428571429
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 4, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+64.95535714285714
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 3, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 3, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+56.69642857142857
+{'_stride': 4, '_stride2': 1, 'N': 11, 'N2': 4, 'k': 7, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 19}
+66.74107142857143
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 3, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+64.73214285714286
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+65.17857142857143
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 4, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+59.375
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 3, 'k': 3, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 9}
+61.830357142857146
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+63.839285714285715
+{'_stride': 2, '_stride2': 1, 'N': 6, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+62.276785714285715
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+61.38392857142857
+{'_stride': 2, '_stride2': 1, 'N': 5, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+63.839285714285715
+{'_stride': 2, '_stride2': 1, 'N': 5, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+64.28571428571429
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+63.095238095238095
+{'_stride': 2, '_stride2': 1, 'N': 3, 'N2': 5, 'k': 1, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+61.507936507936506
+{'_stride': 2, '_stride2': 1, 'N': 3, 'N2': 3, 'k': 1, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 6}
+62.5
+{'_stride': 2, '_stride2': 1, 'N': 2, 'N2': 2, 'k': 1, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 5}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+66.07142857142857
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+60.714285714285715
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+65.84821428571429
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 4, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+58.482142857142854
+{'_stride': 3, '_stride2': 1, 'N': 5, 'N2': 2, 'k': 5, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 17}
+63.392857142857146
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+65.17857142857143
+{'_stride': 2, '_stride2': 1, 'N': 2, 'N2': 1, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 9}
+64.73214285714286
+{'_stride': 2, '_stride2': 1, 'N': 4, 'N2': 2, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+64.28571428571429
+{'_stride': 2, '_stride2': 1, 'N': 2, 'N2': 3, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 9}
+64.28571428571429
+{'_stride': 2, '_stride2': 1, 'N': 2, 'N2': 1, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 9}
+65.40178571428571
+{'_stride': 2, '_stride2': 1, 'N': 2, 'N2': 3, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 9}
+65.40178571428571
+{'_stride': 3, '_stride2': 1, 'N': 3, 'N2': 1, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 12}
+65.40178571428571
+{'_stride': 3, '_stride2': 1, 'N': 3, 'N2': 1, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 12}
+65.40178571428571
+{'_stride': 3, '_stride2': 1, 'N': 3, 'N2': 1, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 12}
+65.40178571428571
+{'_stride': 3, '_stride2': 1, 'N': 3, 'N2': 1, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 12}
+65.40178571428571
+{'_stride': 3, '_stride2': 1, 'N': 3, 'N2': 1, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 12}
+65.40178571428571
+{'_stride': 3, '_stride2': 1, 'N': 3, 'N2': 1, 'k': 4, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 12}
+65.40178571428571
+{'_stride': 4, '_stride2': 1, 'N': 4, 'N2': 1, 'k': 7, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 17}
+67.1875
+{'_stride': 2, '_stride2': 1, 'N': 1, 'N2': 5, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 8}
+65.40178571428571
+{'_stride': 4, '_stride2': 1, 'N': 4, 'N2': 1, 'k': 7, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 17}
+65.40178571428571
+{'_stride': 4, '_stride2': 1, 'N': 4, 'N2': 1, 'k': 7, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 17}
+65.40178571428571
+{'_stride': 4, '_stride2': 1, 'N': 4, 'N2': 1, 'k': 7, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 17}
+65.40178571428571
+{'_stride': 4, '_stride2': 1, 'N': 4, 'N2': 1, 'k': 7, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 17}
+65.40178571428571
+{'_stride': 4, '_stride2': 1, 'N': 4, 'N2': 1, 'k': 7, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 17}
+67.1875
+{'_stride': 2, '_stride2': 1, 'N': 1, 'N2': 5, 'k': 2, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 7}
+65.40178571428571
+{'_stride': 4, '_stride2': 1, 'N': 4, 'N2': 1, 'k': 7, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 17}
+65.40178571428571
+{'_stride': 4, '_stride2': 1, 'N': 4, 'N2': 1, 'k': 7, 'k2': 1, 'output': 32, 'output2': 16, 'num_epochs': 17}
